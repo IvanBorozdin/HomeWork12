@@ -1,3 +1,7 @@
+package HW12;
+
+import HW12.Author;
+
 public class Book {
     public String nameBook;
     public Author author;

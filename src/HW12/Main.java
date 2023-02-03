@@ -1,3 +1,8 @@
+package HW12;
+
+import HW12.Author;
+import HW12.Book;
+
 public class Main {
 
     public static void main(String[] args) {
