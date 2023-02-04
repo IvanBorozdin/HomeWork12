@@ -6,7 +6,7 @@ import HW12.Book;
 public class Main {
 
     public static void main(String[] args) {
-        Author author=new Author("Федор","Достоеыский");
+        Author author=new Author("Федор" ,"Достоеыский");
         Author author1=new Author("Лев","Толстой");
         System.out.println();
         Book book= new Book("Идиот",1869, author);
